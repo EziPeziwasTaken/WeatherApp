@@ -1,4 +1,4 @@
-# Apka na Počasí v jakémkoliv městě
+# Apka na Počasí v libovolném městě
 
 ## Technologie
 - JavaScript
